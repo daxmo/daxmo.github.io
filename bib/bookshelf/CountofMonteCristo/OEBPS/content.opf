@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 13.0" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Count of Monte Cristo</dc:title>
+		<dc:date>2017-10-31T00:11:43Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2017-10-31T00:11:43Z</meta>
+		<dc:identifier id="bookid">urn:uuid:7A6E7CF0-9642-44D4-8449-91D1FA654D7A</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="Cover-1" href="Cover-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="Cover-2" href="Cover-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="Cover2-1" href="Cover2-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="Cover2-2" href="Cover2-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="TOC-1" href="TOC-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="TOC-2" href="TOC-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="TOC-3" href="TOC-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="TOC-4" href="TOC-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-1" href="ch1-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-2" href="ch1-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-3" href="ch1-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-4" href="ch1-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-5" href="ch1-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-6" href="ch1-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-7" href="ch1-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-8" href="ch1-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-9" href="ch1-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-10" href="ch1-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-11" href="ch1-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-12" href="ch1-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-13" href="ch1-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1-14" href="ch1-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-1" href="ch2-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-2" href="ch2-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-3" href="ch2-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-4" href="ch2-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-5" href="ch2-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-6" href="ch2-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-7" href="ch2-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-8" href="ch2-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-9" href="ch2-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2-10" href="ch2-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-1" href="ch3-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-2" href="ch3-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-3" href="ch3-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-4" href="ch3-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-5" href="ch3-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-6" href="ch3-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-7" href="ch3-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-8" href="ch3-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-9" href="ch3-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-10" href="ch3-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-11" href="ch3-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-12" href="ch3-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-13" href="ch3-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-14" href="ch3-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-15" href="ch3-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3-16" href="ch3-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-1" href="ch4-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-2" href="ch4-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-3" href="ch4-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-4" href="ch4-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-5" href="ch4-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-6" href="ch4-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-7" href="ch4-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-8" href="ch4-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-9" href="ch4-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4-10" href="ch4-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-1" href="ch5-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-2" href="ch5-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-3" href="ch5-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-4" href="ch5-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-5" href="ch5-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-6" href="ch5-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-7" href="ch5-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-8" href="ch5-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-9" href="ch5-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-10" href="ch5-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-11" href="ch5-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-12" href="ch5-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-13" href="ch5-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-14" href="ch5-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-15" href="ch5-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-16" href="ch5-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-17" href="ch5-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-18" href="ch5-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-19" href="ch5-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-20" href="ch5-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-21" href="ch5-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5-22" href="ch5-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles_0.css" href="css/idGeneratedStyles_0.css" media-type="text/css" />
+		<item id="idGeneratedStyles_1.css" href="css/idGeneratedStyles_1.css" media-type="text/css" />
+		<item id="idGeneratedStyles_2.css" href="css/idGeneratedStyles_2.css" media-type="text/css" />
+		<item id="idGeneratedStyles_3.css" href="css/idGeneratedStyles_3.css" media-type="text/css" />
+		<item id="idGeneratedStyles_4.css" href="css/idGeneratedStyles_4.css" media-type="text/css" />
+		<item id="idGeneratedStyles_5.css" href="css/idGeneratedStyles_5.css" media-type="text/css" />
+		<item id="idGeneratedStyles_6.css" href="css/idGeneratedStyles_6.css" media-type="text/css" />
+		<item id="idGeneratedStyles_7.css" href="css/idGeneratedStyles_7.css" media-type="text/css" />
+		<item id="idGeneratedStyles_8.css" href="css/idGeneratedStyles_8.css" media-type="text/css" />
+		<item id="PlayfairDisplay-Black.otf" href="font/PlayfairDisplay-Black.otf" media-type="application/vnd.ms-opentype" />
+		<item id="PlayfairDisplay-Bold.otf" href="font/PlayfairDisplay-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="PlayfairDisplay-Regular.otf" href="font/PlayfairDisplay-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="SourceSansPro-Bold.otf" href="font/SourceSansPro-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="SourceSansPro-Regular.otf" href="font/SourceSansPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="philipp-kammerer-336246.png" href="image/philipp-kammerer-336246.png" media-type="image/png" />
+		<item id="philipp-kammerer-336246b.png" href="image/philipp-kammerer-336246b.png" media-type="image/png" />
+	</manifest>
+	<spine>
+		<itemref idref="Cover-1" properties="page-spread-right" />
+		<itemref idref="Cover-2" properties="page-spread-left" />
+		<itemref idref="Cover2-1" properties="page-spread-right" />
+		<itemref idref="Cover2-2" properties="page-spread-left" />
+		<itemref idref="TOC-1" properties="page-spread-right" />
+		<itemref idref="TOC-2" properties="page-spread-left" />
+		<itemref idref="TOC-3" properties="page-spread-right" />
+		<itemref idref="TOC-4" properties="page-spread-left" />
+		<itemref idref="ch1-1" properties="page-spread-right" />
+		<itemref idref="ch1-2" properties="page-spread-left" />
+		<itemref idref="ch1-3" properties="page-spread-right" />
+		<itemref idref="ch1-4" properties="page-spread-left" />
+		<itemref idref="ch1-5" properties="page-spread-right" />
+		<itemref idref="ch1-6" properties="page-spread-left" />
+		<itemref idref="ch1-7" properties="page-spread-right" />
+		<itemref idref="ch1-8" properties="page-spread-left" />
+		<itemref idref="ch1-9" properties="page-spread-right" />
+		<itemref idref="ch1-10" properties="page-spread-left" />
+		<itemref idref="ch1-11" properties="page-spread-right" />
+		<itemref idref="ch1-12" properties="page-spread-left" />
+		<itemref idref="ch1-13" properties="page-spread-right" />
+		<itemref idref="ch1-14" properties="page-spread-left" />
+		<itemref idref="ch2-1" properties="page-spread-right" />
+		<itemref idref="ch2-2" properties="page-spread-left" />
+		<itemref idref="ch2-3" properties="page-spread-right" />
+		<itemref idref="ch2-4" properties="page-spread-left" />
+		<itemref idref="ch2-5" properties="page-spread-right" />
+		<itemref idref="ch2-6" properties="page-spread-left" />
+		<itemref idref="ch2-7" properties="page-spread-right" />
+		<itemref idref="ch2-8" properties="page-spread-left" />
+		<itemref idref="ch2-9" properties="page-spread-right" />
+		<itemref idref="ch2-10" properties="page-spread-left" />
+		<itemref idref="ch3-1" properties="page-spread-right" />
+		<itemref idref="ch3-2" properties="page-spread-left" />
+		<itemref idref="ch3-3" properties="page-spread-right" />
+		<itemref idref="ch3-4" properties="page-spread-left" />
+		<itemref idref="ch3-5" properties="page-spread-right" />
+		<itemref idref="ch3-6" properties="page-spread-left" />
+		<itemref idref="ch3-7" properties="page-spread-right" />
+		<itemref idref="ch3-8" properties="page-spread-left" />
+		<itemref idref="ch3-9" properties="page-spread-right" />
+		<itemref idref="ch3-10" properties="page-spread-left" />
+		<itemref idref="ch3-11" properties="page-spread-right" />
+		<itemref idref="ch3-12" properties="page-spread-left" />
+		<itemref idref="ch3-13" properties="page-spread-right" />
+		<itemref idref="ch3-14" properties="page-spread-left" />
+		<itemref idref="ch3-15" properties="page-spread-right" />
+		<itemref idref="ch3-16" properties="page-spread-left" />
+		<itemref idref="ch4-1" properties="page-spread-right" />
+		<itemref idref="ch4-2" properties="page-spread-left" />
+		<itemref idref="ch4-3" properties="page-spread-right" />
+		<itemref idref="ch4-4" properties="page-spread-left" />
+		<itemref idref="ch4-5" properties="page-spread-right" />
+		<itemref idref="ch4-6" properties="page-spread-left" />
+		<itemref idref="ch4-7" properties="page-spread-right" />
+		<itemref idref="ch4-8" properties="page-spread-left" />
+		<itemref idref="ch4-9" properties="page-spread-right" />
+		<itemref idref="ch4-10" properties="page-spread-left" />
+		<itemref idref="ch5-1" properties="page-spread-right" />
+		<itemref idref="ch5-2" properties="page-spread-left" />
+		<itemref idref="ch5-3" properties="page-spread-right" />
+		<itemref idref="ch5-4" properties="page-spread-left" />
+		<itemref idref="ch5-5" properties="page-spread-right" />
+		<itemref idref="ch5-6" properties="page-spread-left" />
+		<itemref idref="ch5-7" properties="page-spread-right" />
+		<itemref idref="ch5-8" properties="page-spread-left" />
+		<itemref idref="ch5-9" properties="page-spread-right" />
+		<itemref idref="ch5-10" properties="page-spread-left" />
+		<itemref idref="ch5-11" properties="page-spread-right" />
+		<itemref idref="ch5-12" properties="page-spread-left" />
+		<itemref idref="ch5-13" properties="page-spread-right" />
+		<itemref idref="ch5-14" properties="page-spread-left" />
+		<itemref idref="ch5-15" properties="page-spread-right" />
+		<itemref idref="ch5-16" properties="page-spread-left" />
+		<itemref idref="ch5-17" properties="page-spread-right" />
+		<itemref idref="ch5-18" properties="page-spread-left" />
+		<itemref idref="ch5-19" properties="page-spread-right" />
+		<itemref idref="ch5-20" properties="page-spread-left" />
+		<itemref idref="ch5-21" properties="page-spread-right" />
+		<itemref idref="ch5-22" properties="page-spread-left" />
+	</spine>
+</package>
