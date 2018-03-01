@@ -7943,4 +7943,9 @@ z-index: 99;
   overflow-x: hidden;
 }
 
+.img-responsive{
+  width: 50%;
+  height: auto;
+}
+
 /*# sourceMappingURL=bootstrap.min.css.map */
