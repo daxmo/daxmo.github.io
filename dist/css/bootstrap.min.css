@@ -3451,7 +3451,8 @@ tbody.collapse.show {
   -ms-flex-align: center;
   align-items: center;
   -ms-flex-pack: justify;
-  padding: .5rem 2rem
+  padding: .5rem 2rem;
+  background: -webkit-linear-gradient(top, rgba(29,32,35,1) 0%,rgba(125,126,125,0) 100%);
 }
 
 .navbar>.container, .navbar>.container-fluid {
